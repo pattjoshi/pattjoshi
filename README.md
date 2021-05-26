@@ -2,11 +2,6 @@
 - 👀 I’m interested in android
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on phonepe
-- 📫 How to reach me in mail - omprakashpattjoshi123@gmail.com ,
-                         insta -https://www.instagram.com/om_pattjoshi/ ,
-                         Linkedin -http://www.linkedin.com/in/om-prakash-pattjoshi-4658a8205 .
-- 🎂 Expression and authentic self
-- 🍏 Beginner's mindset and curiosity
-- ❣ Do what you love and love what you do :)
-
-
+### Connect with me:
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[linkend].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON SLUG].svg" />
