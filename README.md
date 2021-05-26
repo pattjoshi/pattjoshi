@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on phonepe
 ### Connect with me:
-<img height="32" width="32" src="www.linkedin.com/in/om-prakash-pattjoshi-4658a8205"[linkend].svg" />
-[<img align="left" alt="om prakash pattjoshi www.linkedin.com/in/om-prakash-pattjoshi-4658a8205 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[ICON SLUG].svg" />
