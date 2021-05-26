@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @om pattjoshi
-- 👀 I’m interested in android
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on phonepe
 
-<h1 align="center">Hi 👋, I'm om pattjoshi</h1>
+<h1 align="center">Hi 👋, I'm om prakash pattjoshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
