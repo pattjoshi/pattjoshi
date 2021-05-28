@@ -15,8 +15,8 @@
 - ⚡ Fun fact **🎂 Expression and authentic self 
 - 🍏 Beginner's mindset and curiosity 
 - ❣ Do what you love and love what you do :)**
-
-### Connect with me:
+- I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+##   Connect with me:
 
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][]
