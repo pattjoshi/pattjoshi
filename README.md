@@ -15,7 +15,8 @@
 - ⚡ Fun fact **🎂 Expression and authentic self 
  - I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
-- ❣ Do what you love and love what you do :)**
+- ❣ Do what you love and love what you do :)
+- https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
 
 ##   Connect with me:
 
