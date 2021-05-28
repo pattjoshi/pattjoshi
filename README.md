@@ -39,5 +39,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pattjoshi&show_icons=true&locale=en" alt="pattjoshi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pattjoshi&" alt="pattjoshi" /></p>
+<div>
+<a href="https://github.com/pattjoshi">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattjoshi&theme=light&langs_count=8" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattjoshi&theme=light&langs_count=5" />
+</a>
+<br>
+
+<div align="center">
+  
+![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=pattjoshi&show_icons=true&theme=tokyonight)
+</div>
+<br>
+</br>
+</div>
+<div align="center">
+ <br>
  Show some ❤️ by starring some of the repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 </div>
