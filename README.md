@@ -20,7 +20,7 @@
 - ❣ Do what you love and love what you do :)
 
 ## :mailbox: How to reach me : 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:msahilranjan@gmail.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:omprakashpattjoshi123@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/sahil-ranjan-mund-975997196/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/github.png">](https://www.github.com/SahilMund/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/sahil_mund/)
