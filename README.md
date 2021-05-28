@@ -13,16 +13,10 @@
 - 🔭 I’m currently working on **Android**
 
 - 🌱 I’m currently learning **flutter**
-- 
 -  :relaxed: I'm a 🚀 developer 
-
 - 👯 I’m looking to collaborate on **phonepe**
-
-
-
 - ⚡ Fun fact **🎂 Expression and authentic self 
  - I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
-
 - ❣ Do what you love and love what you do :)
 
 
@@ -45,5 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pattjoshi&show_icons=true&locale=en" alt="pattjoshi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pattjoshi&" alt="pattjoshi" /></p>
-### Show some ❤️ by starring some of the repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+ Show some ❤️ by starring some of the repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 </div>
