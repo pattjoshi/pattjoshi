@@ -1,4 +1,4 @@
-############## Hi there i am [om prakash pattjoshi !]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+##              Hi there i am [om prakash pattjoshi !]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <h3 align="center">A passionate android and Hybrid app developer 💻 from India .</h3>
