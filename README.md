@@ -4,7 +4,7 @@
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## Hi there i am [om prakash pattjoshi !]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there i am [om prakash pattjoshi !]() <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px">
 
 
 
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **React js**
 -  :relaxed: I'm a 🚀 developer 
 - 👯 I’m looking to collaborate on **GitHub**
-- ⚡ Fun fact **🎂 Expression and authentic self 
+- ⚡ Fun fact 🎂 Expression and authentic self 
  - I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
 
