@@ -10,14 +10,13 @@
 <h3 align="center">A passionate android and Hybrid app developer 💻 from India .</h3>
 
 
-- 🔭 I’m currently working on **React project**
-
+- 🌱 Learning Mode ON 😜
 - 🌱 I’m currently learning **React js**
 -  :relaxed: I'm a 🚀 developer 
 - 👯 I’m looking to collaborate on **GitHub**
 - ⚡ Fun fact **🎂 Expression and authentic self 
  - I ❤️ to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
-- ❣ Do what you love and love what you do :)
+
 
 ## :mailbox: How to reach me : 
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:omprakashpattjoshi123@gmail.com)
