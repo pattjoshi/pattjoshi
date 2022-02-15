@@ -1,4 +1,4 @@
-<img align="left" width="50" height="50" alt="Dani Akash" src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s"/>     
+<img align="left" width="80" height="80" alt="Dani Akash" src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s"/>     
  
 ## Welcome to  Github Portfolio 
 <br>
