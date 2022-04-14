@@ -5,8 +5,7 @@
  
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="399" height="278" />
 
-## Hi there i am [om prakash pattjoshi ! ](https://pattjoshi.github.io/Responsive_Restaurant_website/ "👨‍💻 Check out my portfolio " ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" >
-
+## Hi there, I am [om prakash pattjoshi ! ](https://pattjoshi.github.io/Responsive_Restaurant_website/ "👨‍💻 Check out my portfolio " ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" >
 
 
 
@@ -24,6 +23,8 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>](https://www.facebook.com/om.pattjoshi/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/om_pattjoshi/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/Omprakshp3/)
+
+[![Repos Badge](https://badges.pufler.dev/repos/pattjoshi?logo=github)](https://github.com/pattjoshi?tab=repositories)
 
 ### Tools and Languages :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -48,8 +49,13 @@
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="react-redux" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="25" height="25" />
 
+<br>
 
-
+### :zap: GitHub Stats
+<div>
+<a href="https://github.com/SahilMund">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattjoshi&theme=light&langs_count=5" />
+</a>
 <br>
 
 <div align="center">
@@ -63,3 +69,5 @@
  <br>
  Show some ❤️ by starring some of the repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 </div>
+
+<img height="100%" alt="Bottom" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/bottom_header.svg"/>
