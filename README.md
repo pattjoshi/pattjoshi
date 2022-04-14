@@ -69,17 +69,6 @@
 
 
 
-<p align="center">&nbsp;
-
-<img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=pattjoshi&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pattjoshi&theme=dracula" />
-</p>
-
-![Om's github activity graph](https://activity-graph.herokuapp.com/graph?username=pattjoshi&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
-
-
-
 <div align="center">
  <br>
  Show some ❤️ by starring some of the repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
