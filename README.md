@@ -24,7 +24,7 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/om_pattjoshi/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/Omprakshp3/)
 
-[![Repos Badge](https://badges.pufler.dev/repos/pattjoshi?logo=github)](https://github.com/pattjoshi?tab=repositories)
+[![Repos Badge](https://badges.pufler.dev/repos/pattjoshi?logo=github)](https://github.com/pattjosi?tab=repositories)
 
 ### Tools and Languages :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -53,7 +53,7 @@
 
 ### :zap: GitHub Stats
 <div>
-<a href="https://github.com/SahilMund">
+<a href="https://github.com/pattjoshi">
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattjoshi&theme=light&langs_count=5" />
 </a>
 <br>
