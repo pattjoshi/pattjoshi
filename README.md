@@ -1,8 +1,6 @@
 <img align="left" width="80" height="80" alt="Dani Akash" src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s"/>     
  
 ## Welcome to  Github Portfolio 
-<br>
- 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="399" height="278" /> -->
  <img align="right" alt="GIF" width="399" height="278" src="https://github.com/chiragsamal/chiragsamal/blob/master/Images/portfolio.gif"  />
 
