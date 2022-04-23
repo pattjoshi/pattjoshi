@@ -2,7 +2,7 @@
  
 ## Welcome to  Github Portfolio 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="399" height="278" /> -->
- <img align="right" alt="GIF" width="461" height="304" src="https://github.com/chiragsamal/chiragsamal/blob/master/Images/portfolio.gif"  />
+ <img align="right" alt="GIF" width="399" height="278" src="https://github.com/chiragsamal/chiragsamal/blob/master/Images/portfolio.gif"  />
 
 ## Hi there, I am [om prakash pattjoshi ! ](https://pattjoshi.github.io/Responsive_Restaurant_website/ "👨‍💻 Check out my portfolio " ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" >
 
