@@ -4,8 +4,7 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="399" height="278" /> -->
  <img align="right" alt="GIF" width="367" height="257" src="https://github.com/chiragsamal/chiragsamal/blob/master/Images/portfolio.gif"  />
 
-## Hi there, I am [om prakash pattjoshi ! ](https://pattjoshi.github.io/Responsive_Restaurant_website/ "👨‍💻 Check out my portfolio " ) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px" >
-
+## Hi there, I am [om prakash pattjoshi ! ](https://pattjoshi.github.io/Responsive_Restaurant_website/ "👨‍💻 Check out my portfolio " ) 
 
 
 - 🌱 Learning Mode ON 😜
@@ -23,7 +22,7 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/om_pattjoshi/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/Omprakshp3/)
 
-[![Repos Badge](https://badges.pufler.dev/repos/pattjoshi?logo=github)](https://github.com/pattjoshi?tab=repositories)
+
 
 ### Tools and Languages :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
