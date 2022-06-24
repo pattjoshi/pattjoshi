@@ -52,8 +52,10 @@
 ### :zap: GitHub Stats
 <div>
 <a href="https://github.com/pattjoshi">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattjoshi&theme=light&langs_count=5" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattjoshi&show_icons=true&theme=tokyonight" />
 </a>
+
+
 <br>
 
 <div align="center">
