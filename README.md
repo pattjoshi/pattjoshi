@@ -16,11 +16,11 @@
 
 
 ## :mailbox: How to reach me : 
-[<img src="https://img.icons8.com/fluency/50/mail.png"/>](mailto:omprakashpattjoshi123@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/color/40/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/om-prakash-pattjoshi-/)
-[<img target="_blank" src="https://img.icons8.com/color/40/facebook-new.png"/>](https://www.facebook.com/om.pattjoshi/)
-[<img target="_blank" src="https://img.icons8.com/fluency/40/instagram-new.png"/>](https://www.instagram.com/om_pattjoshi/)
-[<img target="_blank" src="https://img.icons8.com/color/40/twitter--v1.png"/>](https://twitter.com/Omprakshp3/)
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:omprakashpattjoshi123@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/om-prakash-pattjoshi-/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>](https://www.facebook.com/om.pattjoshi/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/om_pattjoshi/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/twitter-circled.png"/>](https://twitter.com/Omprakshp3/)
 
 
 
