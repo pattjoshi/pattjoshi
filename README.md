@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="399" height="278" /> -->
  <img align="right" alt="GIF" width="367" height="257" src="https://github.com/chiragsamal/chiragsamal/blob/master/Images/portfolio.gif"  />
 
-## Hi there, I am [om prakash pattjoshi ! ](https://pattjoshi.github.io/Responsive_Restaurant_website/ "👨‍💻 Check out my portfolio " ) [<img target="_blank" src="https://img.icons8.com/fluency/20/instagram-check-mark.png"/>](https://twitter.com/Omprakshp3/)
+## Hi there, I am [om prakash pattjoshi ](https://pattjoshi.github.io/Responsive_Restaurant_website/ "👨‍💻 Check out my portfolio " ) [<img target="_blank" src="https://img.icons8.com/fluency/20/instagram-check-mark.png"/>](https://twitter.com/Omprakshp3/)
 
 
 - 🌱 Learning Mode ON 😜
