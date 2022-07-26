@@ -4,7 +4,7 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="399" height="278" /> -->
  <img align="right" alt="GIF" width="367" height="257" src="https://github.com/chiragsamal/chiragsamal/blob/master/Images/portfolio.gif"  />
 
-## Hi there, I am [om prakash pattjoshi ! ](https://pattjoshi.github.io/Responsive_Restaurant_website/ "👨‍💻 Check out my portfolio " ) 
+## Hi there, I am [om prakash pattjoshi ! ](https://pattjoshi.github.io/Responsive_Restaurant_website/ "👨‍💻 Check out my portfolio " ) [<img target="_blank" src="https://img.icons8.com/fluency/20/instagram-check-mark.png"/>](https://twitter.com/Omprakshp3/)
 
 
 - 🌱 Learning Mode ON 😜
@@ -16,11 +16,11 @@
 
 
 ## :mailbox: How to reach me : 
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:omprakashpattjoshi123@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/om-prakash-pattjoshi-/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>](https://www.facebook.com/om.pattjoshi/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://www.instagram.com/om_pattjoshi/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/Omprakshp3/)
+[<img src="https://img.icons8.com/fluency/50/mail.png"/>](mailto:omprakashpattjoshi123@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/color/50/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/om-prakash-pattjoshi-/)
+[<img target="_blank" src="https://img.icons8.com/color/50/facebook-new.png"/>](https://www.facebook.com/om.pattjoshi/)
+[<img target="_blank" src="https://img.icons8.com/fluency/50/instagram-new.png"/>](https://www.instagram.com/om_pattjoshi/)
+[<img target="_blank" src="https://img.icons8.com/color/50/twitter--v1.png"/>](https://twitter.com/Omprakshp3/)
 
 
 
@@ -45,7 +45,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /></code>
 <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="react-redux" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="25" height="25" />
+
 
 <br>
 
