@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="'Courier New',Courier,monospace" width="985px" height="540px" font-size="15px">
+<defs>
+  <style>
+    .key   { fill: #F59E0B; }
+    .val   { fill: #e2c9a0; }
+    .dim   { fill: #616e7f; }
+    .add   { fill: #34D399; }
+    .del   { fill: #F87171; }
+    .head  { fill: #c9d1d9; }
+    .ascii { fill: #c9d1d9; }
+    text, tspan { white-space: pre; }
+
+    /* blinking cursor */
+    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    .cursor { fill:#F59E0B; animation: blink 1s step-end infinite; }
+
+    /* staggered line reveal */
+    @keyframes pop { from{opacity:0} to{opacity:1} }
+    .r01{opacity:0;animation:pop .01s  0.2s forwards}
+    .r02{opacity:0;animation:pop .01s  0.5s forwards}
+    .r03{opacity:0;animation:pop .01s  0.8s forwards}
+    .r04{opacity:0;animation:pop .01s  1.1s forwards}
+    .r05{opacity:0;animation:pop .01s  1.4s forwards}
+    .r06{opacity:0;animation:pop .01s  1.7s forwards}
+    .r07{opacity:0;animation:pop .01s  2.0s forwards}
+    .r08{opacity:0;animation:pop .01s  2.3s forwards}
+    .r09{opacity:0;animation:pop .01s  2.6s forwards}
+    .r10{opacity:0;animation:pop .01s  2.9s forwards}
+    .r11{opacity:0;animation:pop .01s  3.2s forwards}
+    .r12{opacity:0;animation:pop .01s  3.5s forwards}
+    .r13{opacity:0;animation:pop .01s  3.8s forwards}
+    .r14{opacity:0;animation:pop .01s  4.1s forwards}
+    .r15{opacity:0;animation:pop .01s  4.4s forwards}
+    .r16{opacity:0;animation:pop .01s  4.7s forwards}
+    .r17{opacity:0;animation:pop .01s  5.0s forwards}
+    .r18{opacity:0;animation:pop .01s  5.3s forwards}
+    .r19{opacity:0;animation:pop .01s  5.6s forwards}
+    .r20{opacity:0;animation:pop .01s  5.9s forwards}
+    .r21{opacity:0;animation:pop .01s  6.2s forwards}
+    .r22{opacity:0;animation:pop .01s  6.5s forwards}
+    .r23{opacity:0;animation:pop .01s  6.8s forwards}
+    .r24{opacity:0;animation:pop .01s  7.1s forwards}
+    .r25{opacity:0;animation:pop .01s  7.4s forwards}
+    .r26{opacity:0;animation:pop .01s  7.7s forwards}
+    .r27{opacity:0;animation:pop .01s  8.0s forwards}
+    .rcur{opacity:0;animation:pop .01s  8.1s forwards}
+  </style>
+</defs>
+
+<!-- Background -->
+<rect width="985" height="540" fill="#161b22" rx="15"/>
+
+<!-- ═══════════════════════════════════════════════
+     LEFT PANEL: ASCII portrait of Om
+═══════════════════════════════════════════════ -->
+<text x="15" y="30" class="ascii" font-size="14.2px">
+<tspan x="15" y="48">gggggggggpppppppppppppppppppgggggggggg</tspan>
+<tspan x="15" y="66">gggggggppppppppppppppppppppppppggggggg</tspan>
+<tspan x="15" y="84">ggggpppppppppppppppppppppppppppppggggg</tspan>
+<tspan x="15" y="102">gggpppppppppjpgMMMMggggppppppppppppggg</tspan>
+<tspan x="15" y="120">gpppppppppppg#@@@##M####Mpppppppppppgg</tspan>
+<tspan x="15" y="138">ppppppppppp#@@########@@#gjppppppppppp</tspan>
+<tspan x="15" y="156">pppppppppjM@@@@@##MgppM@@Mjpjppppppppp</tspan>
+<tspan x="15" y="174">pppppppjpjM@@@#pkK|||%Kg@#jjjjjppppppp</tspan>
+<tspan x="15" y="192">ppppppjjjjpM@MjK%||||%Kp##pjjjjjpppppp</tspan>
+<tspan x="15" y="210">pppppjjjjjjp#pjK%%%%%%Kj##jjjjjjjppppp</tspan>
+<tspan x="15" y="228">pppppjjjjjjjMgM#gKjMgjkKMMjjjjjjjppppp</tspan>
+<tspan x="15" y="246">ppppjjjjjjjpggMgg|%jpjKKpkjjjjjjjjpppp</tspan>
+<tspan x="15" y="264">pppjjjjjjjjppkKKK"||"|%jKkjjjjjjjpppp</tspan>
+<tspan x="15" y="282">pppjjjjjjjjjpk%KpKK%||%kk%jjjjjjjjjppp</tspan>
+<tspan x="15" y="300">ppjjjjjjjjjjppjpMppkK%Kjkkjjjjjjjjjppp</tspan>
+<tspan x="15" y="318">pjjjjjjjjjjjpMMMpjkppKjgpjjjjjjjjjjppp</tspan>
+<tspan x="15" y="336">pjjjjjjjjjjjkgMpppk%kpgpkjjjjjjjjjjjpp</tspan>
+<tspan x="15" y="354">pjjjjjjjjjjjjjg#MgppMMp%|pjjjjjjjjjjpp</tspan>
+<tspan x="15" y="372">pjjjjjjjjjjjjjkg####Mj|'kgpjjjjjjjjjpp</tspan>
+<tspan x="15" y="390">pjjjjjjjjjjjjjjpMgggk|'kgpgpjjjjjjjjpp</tspan>
+<tspan x="15" y="408">pjjjjjjjjjjjjkkMMgpK"'Kgpggggppjjjjjpp</tspan>
+<tspan x="15" y="426">pjjjjjjjjjjkjkKM#pK''%gggMMggggpppjjpp</tspan>
+<tspan x="15" y="444">ppjjjjjjjjpg#gKjpkgK|pMgMggggggggggppp</tspan>
+<tspan x="15" y="462">ppjjjjjjjp####p%kKpjjMggggggggggggMMgp</tspan>
+<tspan x="15" y="480">pppjjjjjp###M#gKKkKKgMMMggMMMMgggggMMp</tspan>
+<tspan x="15" y="498">ppppjjjjg##MM#KKK%%jMMMMgMMMMMMgggggMg</tspan>
+<tspan x="15" y="516">ppppjjjjg##M#g|%j|%MMMMgMMMMMMMggggggg</tspan>
+</text>
+
+<!-- ═══════════════════════════════════════════════
+     RIGHT PANEL: neofetch-style info — animated
+═══════════════════════════════════════════════ -->
+
+<!-- Header line: user@host ——————— -->
+<text class="r01" x="390" y="48" class="head">
+  <tspan fill="#c9d1d9">om@pattjoshi</tspan><tspan fill="#616e7f"> ——————————————————————————————————————————————</tspan>
+</text>
+
+<!-- OS -->
+<text class="r02" x="390" y="70">
+  <tspan class="dim">. </tspan><tspan class="key">OS</tspan><tspan class="dim">: ........................ </tspan><tspan class="val">Linux · Windows · Android</tspan>
+</text>
+
+<!-- Uptime -->
+<text class="r03" x="390" y="92">
+  <tspan class="dim">. </tspan><tspan class="key">Uptime</tspan><tspan class="dim">: ...................... </tspan><tspan class="val" id="age">calculating...</tspan>
+</text>
+
+<!-- Host -->
+<text class="r04" x="390" y="114">
+  <tspan class="dim">. </tspan><tspan class="key">Role</tspan><tspan class="dim">: .......................... </tspan><tspan class="val">Full-Stack Developer</tspan>
+</text>
+
+<!-- Kernel -->
+<text class="r05" x="390" y="136">
+  <tspan class="dim">. </tspan><tspan class="key">Stack</tspan><tspan class="dim">: ...................... </tspan><tspan class="val">MERN · AWS · CI/CD · Docker</tspan>
+</text>
+
+<!-- IDE -->
+<text class="r06" x="390" y="158">
+  <tspan class="dim">. </tspan><tspan class="key">IDE</tspan><tspan class="dim">: .......................... </tspan><tspan class="val">VS Code · WebStorm</tspan>
+</text>
+
+<!-- blank -->
+<text class="r07" x="390" y="180"><tspan class="dim">. </tspan></text>
+
+<!-- Languages -->
+<text class="r08" x="390" y="202">
+  <tspan class="dim">. </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Programming</tspan><tspan class="dim">: ......... </tspan><tspan class="val">JavaScript, TypeScript, SQL</tspan>
+</text>
+
+<text class="r09" x="390" y="224">
+  <tspan class="dim">. </tspan><tspan class="key">Languages</tspan><tspan class="dim">.</tspan><tspan class="key">Markup</tspan><tspan class="dim">: .............. </tspan><tspan class="val">HTML, CSS, YAML, JSON</tspan>
+</text>
+
+<!-- blank -->
+<text class="r10" x="390" y="246"><tspan class="dim">. </tspan></text>
+
+<!-- Framework section -->
+<text class="r11" x="390" y="268">
+  <tspan class="dim">. </tspan><tspan class="key">Frontend</tspan><tspan class="dim">: ............. </tspan><tspan class="val">React, Next.js, Redux, Tailwind CSS</tspan>
+</text>
+
+<text class="r12" x="390" y="290">
+  <tspan class="dim">. </tspan><tspan class="key">Backend</tspan><tspan class="dim">: .................. </tspan><tspan class="val">Node.js, Express.js, REST APIs</tspan>
+</text>
+
+<text class="r13" x="390" y="312">
+  <tspan class="dim">. </tspan><tspan class="key">Database</tspan><tspan class="dim">: ................. </tspan><tspan class="val">MongoDB, MySQL</tspan>
+</text>
+
+<text class="r14" x="390" y="334">
+  <tspan class="dim">. </tspan><tspan class="key">Cloud</tspan><tspan class="dim">: .................... </tspan><tspan class="val">AWS (EC2, S3, Lambda, RDS)</tspan>
+</text>
+
+<text class="r15" x="390" y="356">
+  <tspan class="dim">. </tspan><tspan class="key">DevOps</tspan><tspan class="dim">: ................... </tspan><tspan class="val">Docker, GitHub Actions, CI/CD</tspan>
+</text>
+
+<text class="r16" x="390" y="378">
+  <tspan class="dim">. </tspan><tspan class="key">Testing</tspan><tspan class="dim">: .................. </tspan><tspan class="val">Playwright, Postman</tspan>
+</text>
+
+<!-- blank -->
+<text class="r17" x="390" y="400"><tspan class="dim">. </tspan></text>
+
+<!-- Currently -->
+<text class="r18" x="390" y="422">
+  <tspan class="dim">. </tspan><tspan class="key">Exploring</tspan><tspan class="dim">: ........ </tspan><tspan class="val">Gen AI · LangChain · OpenAI API 🚀</tspan>
+</text>
+
+<text class="r19" x="390" y="444">
+  <tspan class="dim">. </tspan><tspan class="key">Fun fact</tspan><tspan class="dim">: .................. </tspan><tspan class="val">☕ Coffee + bugs = features</tspan>
+</text>
+
+<!-- Contact section ——————— -->
+<text class="r20" x="390" y="468">
+  <tspan fill="#c9d1d9">- Contact </tspan><tspan fill="#616e7f">——————————————————————————————————————————————</tspan>
+</text>
+
+<text class="r21" x="390" y="490">
+  <tspan class="dim">. </tspan><tspan class="key">Email</tspan><tspan class="dim">: ............ </tspan><tspan class="val">omprakashpattjoshi123@gmail.com</tspan>
+</text>
+
+<text class="r22" x="390" y="508">
+  <tspan class="dim">. </tspan><tspan class="key">Portfolio</tspan><tspan class="dim">: ............ </tspan><tspan class="val">portfoliodevom.netlify.app</tspan>
+</text>
+
+<text class="r23" x="390" y="526">
+  <tspan class="dim">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="dim">: .............. </tspan><tspan class="val">om-prakash-pattjoshi-</tspan>
+</text>
+
+</svg>
