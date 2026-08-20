@@ -1,13 +1,9 @@
-<!-- Header GIF / Avatar -->
-<img align="left" width="80" height="80" alt="Om Prakash Pattjoshi" src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s"/>
+### Hi there, I am Om Prakash Pattjoshi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Hi there, I'm [Om Prakash Pattjoshi](https://portfoliodevom.netlify.app/) 👋
-
-**Full-Stack Developer (3 yrs)** building scalable MERN applications and Gen AI features — RAG pipelines & LLM integration with LangChain and OpenAI.
-
-- 💻 **React.js, Next.js, Node.js, TypeScript** | ☁️ **AWS, Docker, CI/CD**
-- 🤖 **LangChain, OpenAI API, RAG, Vector Databases**
-- ❤️ Coffee and code fuel my day <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"/>
+* 😃 Full Stack Developer with **3+ years of experience** in **React, Next.js, Node.js & TypeScript**.
+* 🤖 Building **GenAI applications** with **LLMs, RAG, LangChain & OpenAI**.
+* 💬 Open to **collaboration and interesting projects**.
+* 🌱 Currently learning and exploring **AI Agents & System Design**.
 
 ---
 
