@@ -1,13 +1,12 @@
 <!-- Header GIF / Avatar -->
 <img align="left" width="80" height="80" alt="Om Prakash Pattjoshi" src="https://media2.giphy.com/media/79uMvMuByazSk1cZUX/giphy.gif?cid=ecf05e473ocvmlvn2df8dfx3uh3hrkom2vtc1e4udmv8z640&rid=giphy.gif&ct=s"/>
 
-## Hi there, I’m [Om Prakash Pattjoshi](https://portfoliodevom.netlify.app/) 👋
+## Hi there, I'm [Om Prakash Pattjoshi](https://portfoliodevom.netlify.app/) 👋
 
-I am a **Full-Stack Developer (2+ yrs)** specializing in **MERN stack**, **AWS**, **CI/CD pipelines**, and currently exploring **Gen AI**.  
-I love building scalable web applications and learning cutting-edge technologies.
+**Full-Stack Developer (3 yrs)** building scalable MERN applications and Gen AI features — RAG pipelines & LLM integration with LangChain and OpenAI.
 
-- 🌱 Currently learning **Gen AI**
-- ⚡ Fun fact: I love **coding, debugging, and experimenting with new tech**
+- 💻 **React.js, Next.js, Node.js, TypeScript** | ☁️ **AWS, Docker, CI/CD**
+- 🤖 **LangChain, OpenAI API, RAG, Vector Databases**
 - ❤️ Coffee and code fuel my day <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"/>
 
 ---
@@ -27,10 +26,9 @@ I love building scalable web applications and learning cutting-edge technologies
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,nodejs,express,react,nextjs,redux,mongodb,mysql,html,css,bootstrap,tailwind,git,github,githubactions,docker,aws,postman,playwright,ai&perline=10" alt="Skills"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,nodejs,expressjs,react,nextjs,redux,mongodb,postgresql,mysql,redis,html,css,bootstrap,tailwindcss,langchain,pinecone,aws,docker,githubactions,git,github,api,postman,playwright&perline=10" alt="Skills"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -41,9 +39,7 @@ I love building scalable web applications and learning cutting-edge technologies
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pattjoshi&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</div>
+
 
 <div align="center">
 ⭐ Show some ❤️ by starring repositories!  
