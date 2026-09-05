@@ -22,7 +22,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,nodejs,expressjs,react,nextjs,redux,mongodb,postgresql,mysql,redis,html,css,bootstrap,tailwindcss,langchain,pinecone,aws,docker,githubactions,git,github,api,postman,playwright&perline=10" alt="Skills"/>
 </p>
 
-## 📊 GitHub Stats
 
 <table>
   <tr>
