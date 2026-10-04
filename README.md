@@ -1,8 +1,8 @@
 ### Hi there, I am Om Prakash Pattjoshi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-* 😃 Full Stack Developer with **3+ years of experience** in **React, Next.js, Node.js & TypeScript**.
-* 🤖 Building **GenAI applications** with **LLMs, RAG, LangChain, OpenAI & Vector Databases**.
-* ☁️ Experienced with **REST APIs, Microservices, PostgreSQL, MongoDB, Redis, AWS & Docker**.
+* 🤖 GenAI Engineer with **3+ years of experience** building **production LLM applications, RAG pipelines & multi-agent workflows**.
+* 🧠 Working with **Python, FastAPI, LangChain, LangGraph, OpenAI API & Vector Databases**.
+* ☁️ Full stack delivery with **React.js, Next.js, REST APIs, PostgreSQL, Redis, AWS & Docker**.
 * 💬 Open to **collaboration, interesting projects and opportunities**.
 * 🌱 Currently exploring **AI Agents, System Design & advanced GenAI applications**.
 
